@@ -2,3 +2,9 @@
 
 BFSTUD26-012 : 10.226.131.127
 BFSTUD26-012 : 10.226.131.127
+
+Public IP: 75.186.104.168
+Private IP: 10.226.131.127
+Hostname: BFSTUD26-012
+Latitiude/Longitude: [39.3601, -84.3099]
+City: Mason
