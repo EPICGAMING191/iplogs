@@ -8,3 +8,10 @@ Private IP: 10.226.131.127
 Hostname: BFSTUD26-012
 Latitiude/Longitude: [39.3601, -84.3099]
 City: Mason
+
+
+Public IP: 216.48.140.241
+Private IP: 10.241.17.179
+Hostname: BFSTUD26-012
+Latitiude/Longitude: [39.3601, -84.3099]
+City: Mason
